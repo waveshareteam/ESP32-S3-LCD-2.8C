@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "esp32-s3-lcd-2.8c",
+      "model": "ESP32-S3-LCD-2.8C",
+      "files": [
+        "firmware/ESP32-S3-LCD-2.8C_FactoryOnly_20250124.bin"
+      ]
+    },
+    {
+      "id": "esp32-s3-touch-lcd-2.8c",
+      "model": "ESP32-S3-Touch-LCD-2.8C",
+      "files": [
+        "firmware/ESP32-S3-Touch-LCD-2.8C_FactoryOnly_20250224.bin"
+      ]
+    }
+  ],
+  "schema": 1
+}
